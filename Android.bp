@@ -342,15 +342,15 @@ android_app_import {
 }
 
 dex_import {
-	name: "tcmclient",
-	owner: "sony",
-	jars: ["proprietary/framework/tcmclient.jar"],
-}
-
-dex_import {
 	name: "WfdCommon",
 	owner: "sony",
 	jars: ["proprietary/system/framework/WfdCommon.jar"],
+}
+
+dex_import {
+	name: "tcmclient",
+	owner: "sony",
+	jars: ["proprietary/system/framework/tcmclient.jar"],
 }
 
 dex_import {
