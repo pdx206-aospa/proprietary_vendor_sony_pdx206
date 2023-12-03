@@ -1436,7 +1436,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib/rfsa/adsp/libsomc_milkyrollserv_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsomc_milkyrollserv_skel.so \
     vendor/sony/pdx206/proprietary/vendor/lib/rfsa/adsp/libsomc_pdnserv_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsomc_pdnserv_skel.so \
     vendor/sony/pdx206/proprietary/vendor/lib/rfsa/adsp/libstdc++.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libstdc++.so \
-    vendor/sony/pdx206/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
     vendor/sony/pdx206/proprietary/vendor/lib/soundfx/libasphere.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libasphere.so \
     vendor/sony/pdx206/proprietary/vendor/lib/soundfx/libdnnrwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdnnrwrapper.so \
     vendor/sony/pdx206/proprietary/vendor/lib/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcbassboost.so \
