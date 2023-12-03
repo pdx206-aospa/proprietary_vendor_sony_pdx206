@@ -1764,9 +1764,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libGPTEE_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPTEE_vendor.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libGPreqcancel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPreqcancel.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libGPreqcancel_svc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPreqcancel_svc.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libHpEqApi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libHpEqApi.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libMpeg4SwEncoder.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libMpeg4SwEncoder.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libOARenderer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOARenderer.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libOmxAacDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxAacDec.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libOmxAlacDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxAlacDec.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libOmxAlacDecSw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxAlacDecSw.so \
@@ -1786,13 +1784,9 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libQTEEConnector_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQTEEConnector_listener.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libQTEEConnector_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQTEEConnector_vendor.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libRbsFlow.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libRbsFlow.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libSForceVSE.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSForceVSE.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libSNPE.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSNPE.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libStDrvInt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libStDrvInt.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libacdb-fts.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libacdb-fts.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libacdbloader.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libacdbloader.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libacdbrtac.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libacdbrtac.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libadiertac.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadiertac.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadreno_utils.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libadsp_default_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadsp_default_listener.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libadsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadsprpc.so \
@@ -1805,11 +1799,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libasn1cper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libasn1cper.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libasn1crt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libasn1crt.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libasn1crtx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libasn1crtx.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libaudcal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudcal.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libaudio_log_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio_log_utils.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libaudioalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioalsa.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libaudiokeymgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiokeymgr.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libaudioparsers.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioparsers.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libbatching.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbatching.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libbtnv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtnv.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libc++_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libc++_shared.so \
@@ -1847,7 +1836,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libcvp2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcvp2.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libcvp2_hfi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcvp2_hfi.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libcvp_common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcvp_common.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libdapparamstorage.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdapparamstorage.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libdataitems.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdataitems.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libdevice_security_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdevice_security_vendor.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libdiag.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdiag.so \
@@ -1876,14 +1864,10 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libhdcprx_module.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdcprx_module.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libhdcpsrm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdcpsrm.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libhdcptx_module.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdcptx_module.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libhdmipassthru.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdmipassthru.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libhdr_tm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdr_tm.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libhexagon_nn_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhexagon_nn_stub.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libhta.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhta.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libhta_hexagon_runtime.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhta_hexagon_runtime.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libiVptApi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libiVptApi.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libiVptHkiDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libiVptHkiDec.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libiVptLibC.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libiVptLibC.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libidd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libidd.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libidl.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libintegration.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libintegration.so \
@@ -1932,7 +1916,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libnlnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnlnetmgr.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liboemcrypto.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libofflinelog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libofflinelog.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libops.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libops.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libos.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libpdmapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpdmapper.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libpdnotifier.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpdnotifier.so \
@@ -1969,10 +1952,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libqti-perfd-client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqti-perfd-client.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libqti-perfd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqti-perfd.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libqti-util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqti-util.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libqtigef.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqtigef.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libqtikeymaster4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqtikeymaster4.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/librcc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librcc.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/librebuffering.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librebuffering.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libril-qc-hal-qmi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-qc-hal-qmi.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libril-qc-logger.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-qc-logger.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libril-qc-ltedirectdisc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-qc-ltedirectdisc.so \
@@ -2046,7 +2027,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsomc_thermal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsomc_thermal.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsomc_yummy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsomc_yummy.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsomc_yummyrsc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsomc_yummyrsc.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libsony3daudioeffect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony3daudioeffect.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsony_animaleye.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_animaleye.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsony_asr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_asr.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsony_facestab.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_facestab.so \
@@ -2054,7 +2034,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsony_fooddetect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_fooddetect.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsony_naruto.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_naruto.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libsony_stab.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_stab.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libsonydseehxwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsonydseehxwrapper.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libspcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspcom.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libspl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspl.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libssc.so \
@@ -2079,7 +2058,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libvpphcp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpphcp.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libvpphvx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpphvx.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libvpplibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpplibrary.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libvpt3d.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpt3d.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libwms.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwms.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libwqe.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwqe.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
@@ -2096,12 +2074,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/rfsa/adsp/libsns_device_mode_skel.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/soundfx/libasphere.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libasphere.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcbassboost.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcreverb.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcvirt.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/soundfx/libshoebox.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libshoebox.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdap.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/unnhal-acc-adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unnhal-acc-adreno.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/unnhal-acc-common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unnhal-acc-common.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/unnhal-acc-hta.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unnhal-acc-hta.so \
@@ -2113,7 +2085,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/vendor.display.color@1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.color@1.4.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/vendor.display.color@1.5.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.color@1.5.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/vendor.display.postproc@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.postproc@1.0.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/vendor.dolby.hardware.dms@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@1.0.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/vendor.egistec.hardware.fingerprint@4.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.egistec.hardware.fingerprint@4.0.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/vendor.qti.data.factory@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.data.factory@2.0.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/vendor.qti.data.factory@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.data.factory@2.1.so \
