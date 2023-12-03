@@ -2119,7 +2119,6 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.uceservice-V2.1-java \
     dpmapi \
     qcrilhook \
-    qti-telephony-common \
     vendor.qti.ims.callinfo-V1.0-java \
     vendor.qti.ims.rcsconfig-V1.0-java \
     android.hardware.gnss@2.1-service-qti \
