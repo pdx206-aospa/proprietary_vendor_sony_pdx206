@@ -179,8 +179,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/bin/wifidisplayhalservice:$(TARGET_COPY_OUT_VENDOR)/bin/wifidisplayhalservice \
     vendor/sony/pdx206/proprietary/vendor/bin/wvkbd:$(TARGET_COPY_OUT_VENDOR)/bin/wvkbd \
     vendor/sony/pdx206/proprietary/vendor/bin/xtra-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/xtra-daemon \
-    vendor/sony/pdx206/proprietary/vendor/bin/xtwifi-client:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-client \
-    vendor/sony/pdx206/proprietary/vendor/bin/xtwifi-inet-agent:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-inet-agent \
     vendor/sony/pdx206/proprietary/vendor/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16631040.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16631040.dat \
     vendor/sony/pdx206/proprietary/vendor/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16632000.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16632000.dat \
     vendor/sony/pdx206/proprietary/vendor/camera/CERVIN_0_EEPROM_FW_DATA_2_0x16631040.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CERVIN_0_EEPROM_FW_DATA_2_0x16631040.dat \
@@ -1877,7 +1875,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/lib64/libgcs-ipc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgcs-ipc.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libgcs-osal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgcs-osal.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libgcs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgcs.so \
-    vendor/sony/pdx206/proprietary/vendor/lib64/libgdtap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgdtap.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libgeofencing.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgeofencing.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libgnss.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgnss.so \
     vendor/sony/pdx206/proprietary/vendor/lib64/libgnsspps.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgnsspps.so \
