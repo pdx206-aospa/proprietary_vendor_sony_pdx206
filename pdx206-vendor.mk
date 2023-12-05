@@ -1000,15 +1000,12 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/etc/ssg/tz_whitelist.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/tz_whitelist.json \
     vendor/sony/pdx206/proprietary/vendor/etc/system_properties.xml:$(TARGET_COPY_OUT_VENDOR)/etc/system_properties.xml \
     vendor/sony/pdx206/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
-    vendor/sony/pdx206/proprietary/vendor/etc/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/bdwlan.e16:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e16 \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/bdwlan.e17:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e17 \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/bdwlan.elf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.elf \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/icm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/icm.conf \
-    vendor/sony/pdx206/proprietary/vendor/etc/wifi/p2p_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/regdb.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/regdb.bin \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/wifi_txpower.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wifi_txpower.conf \
-    vendor/sony/pdx206/proprietary/vendor/etc/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_ComboCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_ComboCam.tbl \
     vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_FrontCHICam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_FrontCHICam.tbl \
     vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_NoCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_NoCam.tbl \
